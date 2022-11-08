@@ -1,3 +1,8 @@
+
+
+
+
+![expense](https://user-images.githubusercontent.com/83213183/200548047-3ebea9e9-2ec0-48f7-a8f2-045c54da622f.PNG)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -64,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 ### Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### Preview
+
+[8116dbe5-0736-461b-bca7-f671a4e692b8.webm](https://user-images.githubusercontent.com/83213183/200548187-c28ac867-276d-4f8f-9b8a-abbab1f7c4eb.webm)
